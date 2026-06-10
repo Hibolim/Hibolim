@@ -1,16 +1,13 @@
-## Hi there 👋
+### hey
 
-<!--
-**Hibolim/Hibolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mostly messing around with on-chain data and smart contract patterns. based in paris, originally from somewhere colder.
 
-Here are some ideas to get you started:
+currently digging into mev extraction mechanics and cross-chain messaging — the kind of stuff that breaks at 3am and somehow works by lunch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if you're into unconventional approaches to liquidity routing or just want to chat about why most bridges are held together by duct tape, feel free to reach out.
+
+outside of code: long walks without a destination, coffee that's too strong, and occasionally remembering that sleep exists.
+
+---
+
+*no deadlines were harmed in the making of these repos*
